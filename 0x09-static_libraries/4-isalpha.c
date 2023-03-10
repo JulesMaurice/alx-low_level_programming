@@ -9,7 +9,6 @@ int _isalpha(int c)
 {
 	return ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'));
 }
-vi 4 - strpbrk.c
 
 #include "main.h"
 /**
